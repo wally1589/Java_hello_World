@@ -1,0 +1,18 @@
+/* Name: wally 
+ * Date: 3/14
+ * Program Name: helloworld 
+ * Description: redo of week1 assignment for better understanding
+ */
+package prg420n;
+
+/**
+ *
+ * @author wally
+ */
+public class HelloWorld 
+{
+    public static void main(String[] args)
+    {
+        System.out.println("Hello World");
+    }
+}
